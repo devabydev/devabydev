@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" fill="none" role="img" aria-label="BuildKRE">
+  <path d="M12 8v32" stroke="#f0ede6" stroke-width="1.7" stroke-linecap="square"/>
+  <path d="M12 24 32 8" stroke="#f0ede6" stroke-width="1.7" stroke-linecap="square"/>
+  <path d="M12 24 32 40" stroke="#f0ede6" stroke-width="1.7" stroke-linecap="square"/>
+  <path d="M35 16.5 41 9l6 7.5" stroke="#f0ede6" stroke-width="1.7" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="62" y="32" fill="#f0ede6" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" font-weight="600" letter-spacing="0.04em">BuildKRE</text>
+</svg>
