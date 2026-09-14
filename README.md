@@ -1,49 +1,79 @@
-
-<h1 align="center">Hey 👋, I'm デヴァ (Ø Deva)</h1>
-<h3 align="center">Aspiring Programmer • Tech Enthusiast • Entrepreneur</h3>
-
-<table>
-<tr>
-<td>
-
-### 👨‍💻 About Me
-- 💬 Call me `Deva` (or Ø Deva)  
-- 💻 Passionate about `coding, math, and physics`  
-- 🌱 Currently learning `Python` and skilled in `Web Development`  
-- 💡 Love experimenting with `new technologies` and building `useful projects`  
-- 🧠 Inspired by `Dr. A. P. J. Abdul Kalam`  
-- 😄 Pronouns: `He / Him`  
-
-</td>
-<td>
-
-
-
-<td align="center">
-
-<img src="/Files/image.png" width="200px" alt="image"/>
-
-</td>
-</tr>
-</table>
-
----
+<h1 align="center">d e v a</h1>
 
 <p align="center">
-  <a href="#"><img alt="Made by Deva" title="Made by Deva" src="https://custom-icon-badges.demolab.com/badge/-Made%20by%20Deva-00796b?style=for-the-badge&logo=terminal&logoColor=white"/></a>
+  <strong>Devansh Rajesh</strong> — student, engineer, and founder of <a href="https://buildkre.com">BuildKRE</a>
 </p>
 
-
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/urnotdeva) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21372380) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/urnotdeva) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/urnotdeva) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCt3bP_h0RZ6F_7-v96uH7vg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@urnotdeva) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=flat&logo=Pocketbase&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+<p align="center">
+  I build software, test ideas, and turn them into products people can use.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=urnotdeva&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/urnotdeva) 
+## Now
 
+- Building **Arigo** — a student platform for opportunities, competitions, projects, and community
+- Running **KRE Labs** — experiments, prototypes, and new ideas under BuildKRE
 
+---
+
+## BuildKRE
+
+<p align="center">
+  <a href="https://buildkre.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/buildkre-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/buildkre-light.svg">
+      <img alt="BuildKRE" src="./assets/buildkre-light.svg" height="48">
+    </picture>
+  </a>
+</p>
+
+Independent student-led studio: products, communities, open source, and labs.
+
+Build. Create. Reimagine.
+
+**[buildkre.com](https://buildkre.com)**
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## Socials
+
+<p align="center">
+  <a href="https://urnotdeva.com"><img src="https://img.shields.io/badge/Website-urnotdeva.com-0a0a09?style=for-the-badge" alt="Website"/></a>
+  <a href="https://buildkre.com"><img src="https://img.shields.io/badge/BuildKRE-buildkre.com-0a0a09?style=for-the-badge" alt="BuildKRE"/></a>
+  <a href="https://github.com/urnotdeva"><img src="https://img.shields.io/badge/GitHub-urnotdeva-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/urnotdeva"><img src="https://img.shields.io/badge/X-urnotdeva-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://youtube.com/@urnotdeva"><img src="https://img.shields.io/badge/YouTube-urnotdeva-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/urnotdeva"><img src="https://img.shields.io/badge/Instagram-urnotdeva-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://ko-fi.com/urnotdeva"><img src="https://img.shields.io/badge/Ko--fi-urnotdeva-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+  <a href="mailto:hello@urnotdeva.com"><img src="https://img.shields.io/badge/Email-hello@urnotdeva.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=urnotdeva&show_icons=true&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb&icon_color=22EBF7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=urnotdeva&show_icons=true&hide_border=true&bg_color=f3f0e8&title_color=161513&text_color=3a3835&icon_color=0a7a82">
+    <img src="https://github-readme-stats.vercel.app/api?username=urnotdeva&show_icons=true&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb&icon_color=22EBF7" alt="urnotdeva GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=urnotdeva&layout=compact&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=urnotdeva&layout=compact&hide_border=true&bg_color=f3f0e8&title_color=161513&text_color=3a3835">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urnotdeva&layout=compact&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb" alt="urnotdeva top languages"/>
+  </picture>
+</p>
