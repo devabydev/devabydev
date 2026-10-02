@@ -53,11 +53,11 @@ Build. Create. Reimagine.
 <p align="center">
   <a href="https://urnotdeva.com"><img src="https://img.shields.io/badge/Website-urnotdeva.com-0a0a09?style=for-the-badge" alt="Website"/></a>
   <a href="https://buildkre.com"><img src="https://img.shields.io/badge/BuildKRE-buildkre.com-0a0a09?style=for-the-badge" alt="BuildKRE"/></a>
-  <a href="https://github.com/devabydev"><img src="https://img.shields.io/badge/GitHub-urnotdeva-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://x.com/devabydev"><img src="https://img.shields.io/badge/X-urnotdeva-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
-  <a href="https://youtube.com/@devabydev"><img src="https://img.shields.io/badge/YouTube-urnotdeva-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://instagram.com/devabydev"><img src="https://img.shields.io/badge/Instagram-urnotdeva-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://ko-fi.com/devabydev"><img src="https://img.shields.io/badge/Ko--fi-urnotdeva-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+  <a href="https://github.com/devabydev"><img src="https://img.shields.io/badge/GitHub-devabydev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/devabydev"><img src="https://img.shields.io/badge/X-devabydev-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://youtube.com/@devabydev"><img src="https://img.shields.io/badge/YouTube-devabydev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/devabydev"><img src="https://img.shields.io/badge/Instagram-devabydev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://ko-fi.com/devabydev"><img src="https://img.shields.io/badge/Ko--fi-devabydev-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
   <a href="mailto:hello@urnotdeva.com"><img src="https://img.shields.io/badge/Email-hello@urnotdeva.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
